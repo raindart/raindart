@@ -1,4 +1,4 @@
-## Hi there 👋
+## ✨ Hi there, Nice to Meet You ✨
 
 <!--
 **raindart/raindart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-✨ Oh, unicorns and dragons, In a realm where wonder reigns, Where their wings and horns are blazing, In the skies where legends remain.✨
+Oh, unicorns and dragons, In a realm where wonder reigns, Where their wings and horns are blazing, In the skies where legends remain...
